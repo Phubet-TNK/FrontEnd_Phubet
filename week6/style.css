@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(151, 255, 132);
+    position: relative;
+}
+ .head{
+    background-color: white;
+    width: 700px;
+    font-size: 500%;
+    margin: auto;
+    text-align: center;
+    border-radius: 45px;
+    margin-bottom: 58px;
+ }
+ .mian{
+    margin-left: 192px;
+    gap: 88px;
+    display: inline-flex;
+    max-width: auto;
+    margin-top: 20px;
+    
+ }
+ div.box{
+    background-color: white; 
+    color: #50C1CD; 
+    width: 241px; 
+    height: px;
+ }
+ p.in-box{
+    color:#FF0090;
+    font-size: 20px;
+ }
